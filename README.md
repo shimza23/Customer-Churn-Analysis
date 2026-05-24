@@ -1,5 +1,8 @@
 # Customer Churn Analysis
+## Dashboard Preview
 
+![Customer Churn Dashboard](Customer_Churn_Dashboard.png)
+``
 ## Overview
 This project analyzes customer churn using Python and Power BI. The aim is to identify key factors that contribute to customer churn and provide insights that can help businesses improve customer retention.
 
